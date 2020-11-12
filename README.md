@@ -1,6 +1,6 @@
 # Metro-E911-Project
 
-Requested by MEtro Nashville's Office of Emergency Management for this project:
+Requested by Metro Nashville's Office of Emergency Management for this project:
 
 - A timeline of each storm
 - Beginning and end of the event
